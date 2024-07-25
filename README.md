@@ -1,4 +1,5 @@
 #System Administrator
+
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 Education
 Ph.D., Physics | The University of Texas at Dallas (May 2022)
